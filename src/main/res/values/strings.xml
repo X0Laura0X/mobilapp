@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Notebook</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="sign_in">Sign In</string>
+    <string name="continue_with">Or continue with</string>
+    <string name="member">Not a member?</string>
+    <string name="sign_in_google">Google sign in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="cancel">Cancel</string>
+    <string name="password_again">Password again</string>
+    <string name="email">Email</string>
+    <string name="title">Title</string>
+    <string name="note_text">Note text</string>
+    <string name="date_example">2000.01.01</string>
+    <string name="search">Search</string>
+    <string name="new_note">New note</string>
+    <string name="options">Options</string>
+    <string name="logout">Logout</string>
+    <string name="view">View</string>
+    <string name="start_writing">Start writing…</string>
+    <string name="save">Save</string>
+</resources>
